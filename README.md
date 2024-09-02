@@ -8,4 +8,4 @@ git checkout tenbrand
 
 git pull origin tenbrand
 
-git push origin tenbrand
+git push origin tenbrand.
